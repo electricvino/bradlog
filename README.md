@@ -1,0 +1,2 @@
+# bradlog
+Blazor Server-side
